@@ -15,11 +15,11 @@ Each level begins with a different configuration of lights 'on' (white). The goa
 
 Clicking any light on the board will toggle its state, and its vertical and horizontal neighbor's states.
 
-![Toggle gif](/gifs/toggle.gif)
+![Toggle gif](gifs/toggle.gif)
 
 A level is completed when all lights are turned off, and the game will advance to the next level.
 
-![Next gif](/gifs/next.gif)
+![Next gif](gifs/next.gif)
 
 
 # TODO
